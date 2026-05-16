@@ -3,6 +3,12 @@
 > **An end-to-end data analytics project** covering data profiling, SQL analysis, Python EDA, statistical testing, attribution modeling, machine learning and interactive dashboard — built on real customer data from a 2-year marketing campaign dataset.
 
 ---
+## Live Dashboard
+
+View the interactive dashboard here:  
+[Marketing ROI Dashboard](https://fanu12343.github.io/marketing-roi/marketing-roi-analyzer/powerbi/marketing_roi_dashboard.html)
+
+
 
 ## 🎯 Business Problem
 
