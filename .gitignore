@@ -1,0 +1,90 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+ENV/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ========================
+# Jupyter Notebooks
+# ========================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.nbconvert.py
+
+# ========================
+# Data Files (large/sensitive)
+# ========================
+*.csv
+!data/processed/customer_segments.csv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# ========================
+# Reports & Outputs
+# ========================
+*.log
+*.tmp
+
+# ========================
+# Power BI
+# ========================
+*.pbix.bak
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ========================
+# IDE & Editors
+# ========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# ========================
+# Environment Variables
+# ========================
+.env
+.env.local
+*.env
+
+# ========================
+# Google Colab / Drive
+# ========================
+*.gsheet
+*.gdoc
+
+# ========================
+# Credentials (never commit these)
+# ========================
+credentials.json
+token.json
+service_account.json
+*.key
