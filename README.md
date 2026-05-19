@@ -55,7 +55,7 @@ marketing-roi-analyzer/
 │   ├── 01_data_profiling_audit.xlsx      ← Phase 1 profiling sheet
 │   └── 02_channel_pivot_dashboard.xlsx   ← Phase 2 Excel pivot dashboard
 │
-├── powerbi/
+├── dashboard/
 │   └── marketing_roi_dashboard      ← 3-page interactive dashboard
 │
 └── README.md
