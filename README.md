@@ -6,7 +6,7 @@
 ## Live Dashboard
 
 View the interactive dashboard here:  
-[Marketing ROI Dashboard](https://fanu12343.github.io/marketing-roi/powerbi/marketing_roi_dashboard.html)
+[Marketing ROI Dashboard](https://fanu12343.github.io/marketing-roi/dashboard/marketing_roi_dashboard.html)
 
 
 
